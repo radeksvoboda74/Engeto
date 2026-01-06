@@ -1,0 +1,9 @@
+# Testovaci framework
+pytest==8.4.2
+
+# Playwright
+playwright==1.42.0
+pytest-playwright==0.4.8
+
+# Knihovny pro logovani
+loguru==0.7.2
